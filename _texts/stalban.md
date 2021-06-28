@@ -1,6 +1,14 @@
-**[St. Alban]{.underline}**
+---
+layout: narrative
+title: "St. Alban"
+author: Liberty Martin
+editor: Alex Gil
+source: Original
+---
 
-by Liberty Martin
+<!-- **[St. Alban]{.underline}**
+
+by Liberty Martin -->
 
 *I think he will carry this island home in his pocket, and give it to
 his son for an apple.*
@@ -14,8 +22,7 @@ Water washes, makes clean. Sand gets inside our bodies, our things...*
 
 ---"What the Sands Remember," Vanessa Agard-Jones
 
-[*[Inspired by a true
-story.]{.underline}*](https://www.nytimes.com/2020/04/05/style/coronavirus-honeymoon-stranded.html)
+[(Inspired by a true story).](https://www.nytimes.com/2020/04/05/style/coronavirus-honeymoon-stranded.html)
 
 *The stunning Caribbean island of St. Alban bears a rich, multicultural
 history. Located to the west of Jamaica and the south of the Cayman
@@ -999,81 +1006,24 @@ Ebony took a moment to be still and then turned around to see that the
 sand of the Royal Hummingbird's private beach was pink like little
 spheres of rose quartz, gleaming in the sunshine.
 
-**[Appendix]{.underline}**
-==========================
+---
 
-![](media/image1.jpg){width="3.512746062992126in"
-height="5.901042213473316in"}
+## Selections from *A Small Place* by Jamaica Kincaid (1988) and *Pity for Poor Africans* by William Cowper (1788)
 
-French illustration of Tacky's Rebellion, Jamaica (*Mapping Marronage*).
 
-The caption reads: *Soulèvement des negres à la Jamaïque. en 1759.*
+> "There must have been some good people among you, but they stayed home. And that is the point\... They stayed home." (35)
 
-The following lines are from *A Small Place* by Jamaica Kincaid (1988):
+> "To the people in a small place, the division of Time into the Past, the Present, and the Future does not exist." (54)
 
--   "There must have been some good people among you, but they stayed
-    > home. And that is the point\... They stayed home." (35)
+> "Sometimes the beauty of it seems as if it were stage sets for a play, for no real sunset could look like that; no real seawater could strike that many shades of blue." (77)
 
--   "To the people in a small place, the division of Time into the Past,
-    > the Present, and the Future does not exist." (54)
+> "I admit, I am sickened at the purchase of slaves/but I must be mumm/for how could we do without sugar or rum?"
 
--   "Sometimes the beauty of it seems as if it were stage sets for a
-    > play, for no real sunset could look like that; no real seawater
-    > could strike that many shades of blue." (77)
 
-The following lines are from *Pity for Poor Africans* by William Cowper
-(1788) (Ullathorne):
+---
 
--   "I admit, I am sickened at the purchase of slaves/but I must be
-    > mumm/for how could we do without sugar or rum?"
+## Acknowledgements
 
-**[Bibliography/Credits]{.underline}**
-
-Agard-Jones, Vanessa. "What the Sands Remember." *GLQ: A Journal of
-Lesbian and Gay*
-
-*Studies* 18, no. 2 (2012): 325--46.
-
-Kincaid, Jamaica. *A Small Place*. First Farrar, Straus and Giroux
-paperback edition. New York:
-
-Farrar, Straus, Giroux, 2000.
-
-Shakespeare, William, and Edmund Dulac. *Shakespeare's Comedy of The
-Tempest*, 2014.
-
-[[http://www.gutenberg.org/ebooks/47518]{.underline}](http://www.gutenberg.org/ebooks/47518).
-
-Ullathorne, Graham. "How Could We Do Without Sugar and Rum?" Accessed
-January 30, 2021.
-
-[[https://archives.history.ac.uk/history-in-focus/Slavery/articles/ullathorne.html]{.underline}](https://archives.history.ac.uk/history-in-focus/Slavery/articles/ullathorne.html).
-
-Zweig, David. "How The Coronavirus Stranded This Couple in the Maldives
-- The New York
-
-Times." Accessed April 13, 2021.
-
-[[https://www.nytimes.com/2020/04/05/style/coronavirus-honeymoon-stranded.html]{.underline}](https://www.nytimes.com/2020/04/05/style/coronavirus-honeymoon-stranded.html).
-
-**[About]{.underline}**
-
-Liberty Martin is a writer and aspiring broadcaster from the London
-borough of Croydon. Specifically, she wants you to know that she was
-born and raised in Thornton Heath. She is in the Columbia University
-Class of 2021 and graduated magna cum laude with a B.A. in comparative
-literature and a concentration in Latin American and Caribbean studies.
-She received departmental honors from the Institute of Comparative
-Literature and Societies for her short story "St. Alban," which she
-submitted as her undergraduate thesis alongside a critical afterword.
-She wants to publish "St. Alban" and is in the process of extending it
-into a novel.
-
-Liberty seeks to center the African diaspora in her projects, such as the podcast that she co-hosts, *Lose Your Sister*, and her WBAR radio show, *HOMESICK*, which explored Black British music. She is an editorial assistant for the journal *Small Axe*, an administrative director and production assistant for the podcast *Writing Home*, and was previously a Writing Peer Fellow for the Columbia University Writing Center. Her work has appeared in the *Financial Times, Columbia Daily Spectator*, and various local newspapers.
-=============================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
-
-**[Acknowledgements]{.underline}**
-==================================
 
 *She is a friend of my mind. She gather me, man. The pieces I am, she
 gather them and give them back to me in all the right order. It\'s good,
@@ -1081,41 +1031,11 @@ you know, when you got a woman who is a friend of your mind.*
 
 *---Beloved,* Toni Morrison
 
-A lot of lovely people gathered me together so that I could write "St.
-Alban" and submit it as my undergraduate thesis. First of all, I am so
-glad that I can finally thank my amazing thesis adviser, Prof. Kaiama L.
-Glover, in writing. Prof. Glover has been so supportive and wonderfully
-excited about my thesis, even when I switched from doing a research
-project to "St. Alban" two months before the deadline. It's been an
-absolute joy working with her. She's done a great job of guiding my
-intellectual growth while I write my afterword and also reigning me in
-when I needed it (because I can be like a child in a candy store when it
-comes to exploring ideas). I am indebted to Prof. Alex Gil, who was kind
-enough to build this website in a short space of time. I met both Prof.
-Glover and Prof. Gil as a student for their "The Caribbean Digital"
-class.
+A lot of lovely people gathered me together so that I could write "St. Alban" and submit it as my undergraduate thesis. First of all, I am so glad that I can finally thank my amazing thesis adviser, Prof. Kaiama L. Glover, in writing. Prof. Glover has been so supportive and wonderfully excited about my thesis, even when I switched from doing a research project to "St. Alban" two months before the deadline. It's been an absolute joy working with her. She's done a great job of guiding my intellectual growth while I write my afterword and also reigning me in when I needed it (because I can be like a child in a candy store when it comes to exploring ideas). I am indebted to Prof. Alex Gil, who was kind enough to build this website in a short space of time. I met both Prof. Glover and Prof. Gil as a student for their "The Caribbean Digital"class.
 
-I am also grateful for my Director of Undergraduate Studies, Prof.
-Tommaso Manfredini, who has also been very supportive of my work and has
-given me invaluable precise feedback for my afterword. Prof. Brent
-Edwards was also very helpful and attentive when I approached him for my
-research project. Prof. Elleza Kelley's class, "Counterarchives:
-Contemporary Black Historical Fiction," was instrumental for my
-afterword. I greatly appreciate the way that Prof. Kelley took the time
-to read "St. Alban" and give me thoughtful feedback for my thesis.
+I am also grateful for my Director of Undergraduate Studies, Prof. Tommaso Manfredini, who has also been very supportive of my work and has given me invaluable precise feedback for my afterword. Prof. Brent Edwards was also very helpful and attentive when I approached him for my research project. Prof. Elleza Kelley's class, "Counterarchives: Contemporary Black Historical Fiction," was instrumental for my afterword. I greatly appreciate the way that Prof. Kelley took the time to read "St. Alban" and give me thoughtful feedback for my thesis.
 
-In terms of writing the story, I would like to give a big thank you to
-Tejan Waszak, my colleague at the Columbia University Writing Center who
-helped me translate dialogue into Jamaican Patwa. Patwa is a crucial
-part of the lifeblood of this story and the characters, so "St. Alban"
-would not be possible without Tejan's help. Next, I would like to thank
-Prof. Frances Negrón-Muntaner. Her class "Caribbean Diaspora
-Literature," which I took in my freshman year, was my introduction to
-Caribbean studies and shaped my undergrad trajectory. I wrote my first
-ever short story for the final project of that class. Coming full
-circle, I completed writing "St. Alban" as a final project for the
-second class I took with her, "Revolution In/On the Caribbean," in my
-senior year.
+In terms of writing the story, I would like to give a big thank you to Tejan Waszak, my colleague at the Columbia University Writing Center who helped me translate dialogue into Jamaican Patwa. Patwa is a crucial part of the lifeblood of this story and the characters, so "St. Alban"would not be possible without Tejan's help. Next, I would like to thank Prof. Frances Negrón-Muntaner. Her class "Caribbean Diaspora Literature," which I took in my freshman year, was my introduction to Caribbean studies and shaped my undergrad trajectory. I wrote my first ever short story for the final project of that class. Coming full circle, I completed writing "St. Alban" as a final project for the second class I took with her, "Revolution In/On the Caribbean," in my senior year.
 
 "St. Alban" feels like a consolidation of everything I have learnt in
 Caribbean studies in the last four years, so I would also like to thank
@@ -1150,6 +1070,10 @@ creative work the most (actually, she helped me come up with the
 adjective Albanese which was a godsend because Albanian is already
 taken). dee, Ezequiel and my Mum are three people who have nurtured my
 growth as a writer.
+
+---
+
+## Notes
 
 [^1]: From *A Small Place* by Jamaica Kincaid. See appendix.
 
